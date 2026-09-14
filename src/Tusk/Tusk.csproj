@@ -14,10 +14,10 @@
     <Copyright>No Copyright</Copyright>
     <RootNamespace>Tusk</RootNamespace>    
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\Tusk.xml</DocumentationFile>
-    <RepositoryUrl>https://github.com/coldcart/TuskCSharp</RepositoryUrl>
+    <RepositoryUrl>https://github.com/elroi-ai/tusk-test</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/coldcart/TuskCSharp</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/elroi-ai/tusk-test</PackageProjectUrl>
     <PackageTags>tusk;logistics;api;sdk</PackageTags>
     <PackageReleaseNotes>Minor update</PackageReleaseNotes>
     <PackageReadmeFile>README.md</PackageReadmeFile>
